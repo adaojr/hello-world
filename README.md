@@ -1,3 +1,3 @@
-# hello-world
-This is a repositoy i am creating as a part of the start up tutorial.
-I am n ot sure exactly what i should do now... I guess I´ll just write down some stuff and click randomly for a while.
+# read me
+This is the repository I am creating with the designs for the COVID epidemic developed in our group
+There are three different designs we created: two respirator conectors alreadt tested and that worked well and a piece of the mecanism for a medical bed. The conectores were printed using a DLP-SLA printer with a biocompatible resine. The medical piece was usinated in aluminum.
